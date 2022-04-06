@@ -22,6 +22,7 @@ public class AufgabeII {
 		
 		int gesamtPreis = autoPreis1 + autoPreis2;
 		System.out.println(gesamtPreis);
+		
 	}
 
 }
